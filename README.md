@@ -1,2 +1,2 @@
-# C-28
-slingshot angry birds, it is my project :)
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
